@@ -1,0 +1,7 @@
+wheel
+jupyterlab
+numpy
+matplotlib
+tqdm
+keras
+tensorflow
